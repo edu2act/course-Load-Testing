@@ -1,3 +1,38 @@
-# course-Load-Testing
- é€šè¿‡æœ¬è¯¾ç¨‹çš„å­¦ä¹ ï¼Œèƒ½å¤ŸæŒæ¡ç›®å‰æœ€æµè¡Œã€æœ€å®ç”¨çš„æ€§èƒ½æµ‹è¯•çš„æŠ€æœ¯æ–¹æ¡ˆï¼Œèƒ½å¤Ÿç‹¬ç«‹å®Œæˆæ€§èƒ½æµ‹è¯•ï¼Œè§£å†³ä¼ä¸šçº§æ€§èƒ½é—®é¢˜ã€‚ä¸»è¦æ¶µç›–æ€§èƒ½æµ‹è¯•è¿‡ç¨‹ï¼›æµ‹è¯•ç³»ç»Ÿä»‹ç»ï¼›æµ‹è¯•ç¯å¢ƒå‡†å¤‡ï¼›
-æ€§èƒ½æµ‹è¯•è®¡åˆ’åˆ¶å®šï¼›æ€§èƒ½æµ‹è¯•ç”¨ä¾‹|è„šæœ¬è®¾è®¡ã€å®æ–½ã€åˆ†æï¼›æµ‹è¯•ç»“æœåˆ†æï¼›è¯­è¨€è®²è§£ï¼›æ€§èƒ½æŒ‡æ ‡æ¡ˆä¾‹åˆ†æ
+<img src="./image/logo.png" height="50" /> 
+
+# ĞÔÄÜ²âÊÔ 
+
+
+¡¶ĞÔÄÜ²âÊÔ¡·ÊÇ·½Ïò¿Î£¬½ÌÑ§ÈÎÎñÊÇÊ¹Ñ§ÉúÕÆÎÕĞÔÄÜ²âÊÔ»ù´¡ÖªÊ¶£¬²¢ÇÒÉè¼ÆĞÔÄÜ²âÊÔ¼Æ»®£¬ĞÔÄÜ²âÊÔ·½°¸£¬ÄÜÍ¨¹ı¹¤¾ßLoadRunnerºÍJMeter½øĞĞÏàÓ¦µÄĞÔÄÜ²âÊÔ£¬²¢ÄÜ×«Ğ´ĞÔÄÜ²âÊÔ±¨¸æ¡£
+
+- [¿Î³ÌÄÚÈİ](#¿Î³ÌÄÚÈİ)
+- [½ÌÑ§´ó¸Ù](./materials/outline.pdf)   [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/outline.docx)
+- [¿Î³Ì½ø¶È±í](./materials/schedule.pdf)   [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/schedule.doc)
+
+## ¿Î³ÌÄÚÈİ
+
+| ÕÂ½Ú | Ãû³Æ | ÄÚÈİ | ¿Î¼ş |
+|:---:|:---|:---:|:---:|
+|1 | ĞÔÄÜ²âÊÔ»ù´¡ÖªÊ¶£¨1--»ù±¾¸ÅÄî¡¢·ÖÀà¡¢ĞÔÄÜÖ¸±êµÈ£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch01.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch01) |
+|2 | ĞÔÄÜ²âÊÔ»ù´¡ÖªÊ¶(2--HTTPĞ­Òé¡¢×¥°üÖªÊ¶)|| [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch02.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch02) |
+| 3 |ĞÔÄÜ²âÊÔ¹¤¾ßLoadRunnerÊ¹ÓÃ£¨¹¤¾ßÑ¡Ôñ¡¢°²×°¡¢³õÌåÑé£©|| [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch03.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch03) |
+| 4 |  LoadRunner»ù±¾Ê¹ÓÃ£¨Ğ­Òé¡¢Â¼ÖÆÑ¡ÏîÉèÖÃ¡¢ÊéĞ´º¯Êı¡¢ÔËĞĞÉèÖÃ£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch04.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch04) |
+| 5 | ĞÔÄÜ²âÊÔ¹¤¾ßLoadRunnerÊ¹ÓÃ¡ª²ÎÊı»¯£¨°üº¬º¯ÊıºÍ±äÁ¿£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch05.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch05) |
+| 6 | ĞÔÄÜ²âÊÔ¹¤¾ßLoadRunnerÊ¹ÓÃ¡ª¹ØÁª¡¢ÊÂÎñºÍ¼ì²éµã|| [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch06.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch06) |
+| 7 | ĞÔÄÜ²âÊÔ¹¤¾ßLoadRunnerÊ¹ÓÃ¡ªControllerÊ¹ÓÃ|| [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch07.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch07) |
+| 8.1 | Linux·şÎñÆ÷¼à¿Ø|| [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch08(1).pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch08) |
+| 8.2 |  Linux·şÎñÆ÷¼à¿Ø(2) || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch08(2).pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch08) |
+| 9.1 | ĞÔÄÜ²âÊÔ¹¤¾ßLoadRunnerÊ¹ÓÃ¡ªAnalysis || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch09(1).pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch09) |
+| 9.2 | ĞÔÄÜ²âÊÔ¹¤¾ßLoadRunnerÊ¹ÓÃ--Analysis(°üº¬¼¯ºÏµãµÄÖªÊ¶) || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch09(2).pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch09) |
+| 10.1 | ¼Æ»®²âÊÔ¡ª·ÖÎöÏµÍ³£¨¶¨Òå²âÊÔÄ¿±ê£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch10(1).pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch10) |
+| 10.2 | ¼Æ»®²âÊÔ£¨°üº¬¶¨Òå²âÊÔÄ¿±ê¡¢ĞÔÄÜ²âÊÔ¼Æ»®¡¢²âÊÔ·½°¸£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch01/ch10(2).pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch10) |
+| 11 | ĞÔÄÜ²âÊÔ¹ı³Ì£¨´î½¨»·¾³¡¢½Å±¾ÒµÎñ±¨¸æ¡¢²âÊÔÊµ¼ù¡¢ĞÔÄÜµ÷ÓÅ¡¢²âÊÔ±¨¸æ£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch14.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch11) |
+| 12 | ĞÔÄÜ²âÊÔ¹¤¾ß¡ª¡ªJMeter»ù´¡£¨½éÉÜ¡¢°²×°¡¢Ä¿Â¼½á¹¹¡¢»ù±¾Ê¹ÓÃµÈ£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch12.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch12) |
+| 13 |  ĞÔÄÜ²âÊÔ¹¤¾ßJMeterÊ¹ÓÃ£¨²ÎÊı»¯£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch13.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch13) |
+| 14 | ĞÔÄÜ²âÊÔ¹¤¾ßJMeterÊ¹ÓÃ£¨°üº¬£º¹ØÁª¡¢¼ì²éµã¡¢ÊÂÎñ¡¢¶¨Ê±Æ÷£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch14.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch14) |
+| 15 | ĞÔÄÜ²âÊÔ¹¤¾ßJMeterÊ¹ÓÃ¡ª¡ªÂß¼­¿ØÖÆÆ÷ || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch15.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch15) |
+| 16 | ĞÔÄÜ²âÊÔ¹¤¾ßJMeterÊ¹ÓÃ¡ª¡ª×é¼şÖ´ĞĞË³Ğò || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch16.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch16) |
+| 17 | ĞÔÄÜ²âÊÔ¹¤¾ßJMeterÊ¹ÓÃ¡ª¡ª¼àÌıÆ÷µÄÊ¹ÓÃ || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch17.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch17) |
+| 18 | ĞÔÄÜ²âÊÔ¹¤¾ßJMeterÊ¹ÓÃ¡ª³¡¾°Éè¼ÆºÍÔËĞĞ£¨°üº¬·ÇGUI·½Ê½ÔËĞĞ£© || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch18.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch18) |
+| 19 | ĞÔÄÜ²âÊÔ¹¤¾ßJMeterÊ¹ÓÃ¡ªº¯Êı¡¢BeanShellµÈµÄÊ¹ÓÃ || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch19.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch19) |
+| 20 | ĞÔÄÜ²âÊÔÖªÊ¶×Ü½á || [<img src="./image/presentation.png" height="15" />²é¿´](./materials/pdf/ch20.pdf) [<img src="./image/download.png" height="15" />ÏÂÔØ](./materials/slides/ch20) |
